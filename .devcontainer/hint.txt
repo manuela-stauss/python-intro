@@ -1,0 +1,3 @@
+### if we need to run an ubuntu upgrade add this in "updateContentCommand" config right after sudo apt update; 
+
+sudo DEBIAN_FRONTEND=noninteractive apt-get upgrade -yq
