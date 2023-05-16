@@ -16,5 +16,8 @@
         "ms-python.python"
       ]
     }
-  }
+},
+"features": {
+	"ghcr.io/akhildevelops/devcontainer-features/pip:0": {}
+}
 }
