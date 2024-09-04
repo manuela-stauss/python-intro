@@ -12,3 +12,4 @@ graphviz
 keras-visualizer
 visualkeras
 seaborn
+tensorflow
